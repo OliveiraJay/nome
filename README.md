@@ -3,5 +3,5 @@ O Box de Séries tem por objetivo proporcionar ao usuário o acesso as novidades
 A página inicial comtem as séries e filmes mais populares no site, as atualizações e lançamentos, além de uma barra lateral contendo uma busca por gênenros de produções. 
 
 # Paleta
-As cores utilizadas foram 0 #000000, 	#885159 e #ffffff
+As cores utilizadas foram  #000000, 	#885159 e #ffffff
 ou seja,preto, marrom rose e branco
